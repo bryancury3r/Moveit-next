@@ -15,7 +15,7 @@
 
 <br>
 
-## Sobre o Move.it
+## 🉑Sobre o Move.it
 
 O Move.it é um App que utiliza a técnica de [pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro), com o objetivo de melhorar sua produtividade e foco. Desenvolvido durante a Next Level Week #4 da [Rocketseat](https://rocketseat.com.br/).
 
@@ -33,7 +33,7 @@ O Move.it é um App que utiliza a técnica de [pomodoro](https://pt.wikipedia.or
   <img src="https://github.com/bryancury3r/Moveit-next/blob/main/public/favicon.png" alt="Página inicial">
 </p>
 
-## Tecnologias
+## 🚀Tecnologias
 
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
