@@ -1,10 +1,6 @@
 <img align="left" src="https://github.com/bryancury3r/Moveit-next/blob/main/public/logo-full.svg" width="35%" alt="Move.it">
 <br>
 
-
-
- 
-
 ## 🤓 Tópicos 
 
 
