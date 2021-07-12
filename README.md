@@ -7,7 +7,7 @@
 
 ## 🤓 Tópicos 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bryancury3r/Moveit-next/blob/main/LICENSE)
+
 
 [Sobre o Move.it](#sobre-o-moveit)
 
@@ -55,7 +55,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/moveIt.git
+git clone https://github.com/bryancury3r/Moveit-next
 # ou use a opção de download.
 
 # Entre na pasta do projeto com 
@@ -74,9 +74,8 @@ yarn dev
 
 
 ## Licença
-<a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
-</a>
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bryancury3r/Moveit-next/blob/main/LICENSE)
 
 <br>
 
@@ -84,5 +83,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Rafael Martins](https://github.com/martins-rafael)
+Feito com :purple_heart: by [Gabriel Cury](https://github.com/bryancury3r)
 
